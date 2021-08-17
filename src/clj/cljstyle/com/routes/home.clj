@@ -74,7 +74,7 @@
          [:div {:class "font-bold text-blue-500 text-center my-5 text-5xl"} "cljstyle"]
          [:div
           {:class "text-center text-lg text-gray-700 mb-5"}
-          [:div {:class "text-xl"} "Big thanks to:"]
+          [:div {:class "text-xl"} "big thanks to:"]
           [:ul
            [:li
             (link "greglook" "https://github.com/greglook")

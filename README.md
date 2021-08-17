@@ -1,8 +1,6 @@
 # cljstyle.com
 
-generated using Luminus version "4.16"
-
-FIXME
+This project brings cljstyle onto the web. 🏖️
 
 ## Prerequisites
 
@@ -14,8 +12,13 @@ You will need [Leiningen][1] 2.0 or above installed.
 
 To start a web server for the application, run:
 
-    lein run 
+    lein run
+
+## Built With
+
+* [cljstyle](https://github.com/greglook/cljstyle)
+* [ctmx](https://www.ctmx.info/)
 
 ## License
 
-Copyright © 2021 FIXME
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
