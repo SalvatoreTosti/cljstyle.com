@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: mvxcvi/cljstyle:0.15.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/mvxcvi/cljstyle/0.15.0/cljstyle-0.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
